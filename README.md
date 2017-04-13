@@ -6,6 +6,6 @@ Compile it with:
 
 make all
 
-You can test compiling a couple programs by doing :
+You can test compiling a TruPL program on the command line by running:
 
-./truc <program>
+./truc (program)
